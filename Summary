@@ -1,0 +1,8 @@
+Performance-Aware Programming
+
+1. Waste, example python taking 100 instructions to accomplish what can be done with 1.
+2. Instructions per clock, allow the cpu to execute more by grouping operations that don't depend on each other.
+3. Single Instruction, Multiple Data, operate on more data with each instruction.
+4. Caching, be aware of memory layers and their performance.
+5. Multithreading, divide the work between multiple threads to take advantage of multiple cores and multiple threads per core.
+6. Algoritms and mathematics are extra, be aware of the above when designing algorithms and using mathematics.
